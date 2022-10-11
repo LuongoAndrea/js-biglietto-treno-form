@@ -1,3 +1,4 @@
+
 // const element = document.getElementsById("btn");
 const element = document.getElementById("btn");
 element.addEventListener("click", calcoloBiglietto);
